@@ -1,0 +1,30 @@
+body {
+    background-color: #eeeada;
+}
+
+.counter-container {
+    padding-top: 150px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: #212F3D;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color:#caabab;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
